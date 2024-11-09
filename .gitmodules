@@ -1,0 +1,3 @@
+[submodule "src/asv_wave_sim"]
+	path = src/asv_wave_sim
+	url = git@github.com:PyroX2/asv_wave_sim.git
